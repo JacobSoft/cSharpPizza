@@ -1,0 +1,12 @@
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.Domain.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.Domain.pdb
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.DTO.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.Persistence.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\EntityFramework.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.DTO.pdb
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.Persistence.pdb
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\MegaBobsPizza.Persistence.dll.config
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\bin\Debug\EntityFramework.xml
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\obj\Debug\MegaBobsPizza.Domain.csprojResolveAssemblyReference.cache
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\obj\Debug\MegaBobsPizza.Domain.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.Domain\obj\Debug\MegaBobsPizza.Domain.pdb

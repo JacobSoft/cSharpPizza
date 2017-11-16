@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PizzaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PizzaOrder">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Guid" Nullable="false" />
+    <Property Name="Size" Type="PizzaModel.PizzaSize" Nullable="false" />
+    <Property Name="Crust" Type="PizzaModel.PizzaCrust" Nullable="false" />
+    <Property Name="Sausage" Type="Boolean" Nullable="false" />
+    <Property Name="Pepperoni" Type="Boolean" Nullable="false" />
+    <Property Name="Onions" Type="Boolean" Nullable="false" />
+    <Property Name="GreenPeppers" Type="Boolean" Nullable="false" />
+    <Property Name="TotalCost" Type="Decimal" Precision="10" Scale="4" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Completed" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="PizzaEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PizzaOrders" EntityType="Self.PizzaOrder" />
+  </EntityContainer>
+  <EnumType Name="PizzaSize" a:ExternalTypeName="MegaBobsPizza.DTO.Enums.PizzaSize" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+  <EnumType Name="PizzaCrust" a:ExternalTypeName="MegaBobsPizza.DTO.Enums.PizzaCrust" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+</Schema>

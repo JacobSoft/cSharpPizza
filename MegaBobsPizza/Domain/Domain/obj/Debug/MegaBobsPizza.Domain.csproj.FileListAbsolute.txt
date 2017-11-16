@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\bin\Domain.dll.config
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\bin\Domain.dll
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\bin\Domain.pdb
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\obj\Debug\MegaBobsPizza.Domain.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\obj\Debug\Domain.dll
+c:\users\student\documents\visual studio 2017\Projects\Domain\Domain\obj\Debug\Domain.pdb

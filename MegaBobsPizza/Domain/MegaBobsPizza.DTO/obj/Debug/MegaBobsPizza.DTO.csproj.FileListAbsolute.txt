@@ -1,0 +1,5 @@
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.DTO\bin\Debug\MegaBobsPizza.DTO.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.DTO\bin\Debug\MegaBobsPizza.DTO.pdb
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.DTO\obj\Debug\MegaBobsPizza.DTO.csprojResolveAssemblyReference.cache
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.DTO\obj\Debug\MegaBobsPizza.DTO.dll
+c:\Users\Student\documents\visual studio 2017\Projects\Domain\MegaBobsPizza.DTO\obj\Debug\MegaBobsPizza.DTO.pdb
